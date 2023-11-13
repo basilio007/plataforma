@@ -1,0 +1,94 @@
+header{
+    background-color:yellowgreen;
+    width: 1465px;
+   height: 270px;
+}
+.titulo1{
+    color: aliceblue;
+    text-align: center;
+}
+.subtex1{
+    color: aliceblue;
+margin-top:213px;
+}
+
+.subtex2{
+    color: red;
+    margin-bottom: 100px;
+    margin-left: 150px;
+}
+.seachbart{
+    
+}
+.movie1{
+
+}
+.movie2{   
+margin-left: 70px;
+}
+.movie3{
+    margin-left: 80px;   
+}
+ .pelicula1{
+    width: 185px;
+   height: 270px; 
+}
+ .pelicula2{
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 185px;
+   height: 270px; 
+}
+.pelicula3{
+    margin-left: 15px;
+    width: 185px;
+   height: 270px; 
+   
+}
+.pelicula4{
+    margin-left: 15px;
+    width: 185px;
+   height: 270px; 
+   
+}
+.moviespart{
+    text-align: center;
+}
+.seriespart{
+    text-align: center;
+}
+.serie1{
+    width: 185px;
+    height: 270px;
+}
+.serie2{
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 185px;
+    height: 270px;  
+}
+.serie3{
+    margin-left: 15px;
+    width: 185px;
+    height: 270px;
+}
+.serie4{
+    margin-left: 15px;
+    width: 185px;
+    height: 270px;  
+}
+.tvserie1{
+
+}
+
+.tvserie2{
+    margin-left: 150px;
+}
+.tvserie3{
+    margin-left: 160px;
+}
+.tvserie4{
+    margin-left: 160px;
+}
+
+
