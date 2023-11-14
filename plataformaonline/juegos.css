@@ -1,8 +1,54 @@
 header{
     background-color:yellowgreen;
+    border-radius: 25px;
     width: 1465px;
-   height: 270px;
+   height: 200px;
 }
+
+.searchbar {
+    display: flex;
+    position: relative;
+
+   
+}
+
+ input {
+    background-color:beige;
+    margin-left: 1210px; /* Ajusta el margen derecho según tus preferencias */
+   margin-top:10px;
+   width: 150px;
+   height: 20px;
+}
+.estrenosboton{
+    color: white;
+    background: none;
+    margin-top: 60px;
+   margin-left: 250px;
+   height: 25px;
+   width: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .titulo1{
     color: aliceblue;
     text-align: center;
@@ -17,9 +63,7 @@ margin-top:213px;
     margin-bottom: 100px;
     margin-left: 150px;
 }
-.seachbart{
-    
-}
+
 .movie1{
 
 }
